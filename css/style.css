@@ -1,0 +1,40 @@
+body {
+    background-color: #553545;
+}
+div.calc {
+text-align: center;
+}   
+#container.btn {
+    width: 100%;
+    /* background-color: #c2166c; */
+}
+#result {
+    width: 208px;
+    height:50px;
+    margin-left: -55px;
+}
+.nums, .sign {
+    width: 50px;
+    height: 50px;
+}
+.nums {
+    background-color: aqua;
+}
+.sign {
+    margin-right: 55px;
+    background-color: rgb(45, 162, 216);
+}
+.equal {
+    margin-left: 735px;
+    margin-top: -49px;
+    width: 50px;
+    height: 50px;
+}
+#add.sign {
+    background-color: rgb(45, 162, 216);
+}
+#equal.btn {
+    background-color: #75e975;
+    width: 50px;
+    height: 50px;
+}
